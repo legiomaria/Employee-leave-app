@@ -1,0 +1,15 @@
+h1 {
+    background-color: green;
+    padding: 10px;
+    color: white;
+    text-align: center;
+
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: .7em;
+    font-size: medium;
+    border-radius: 5px;
+}

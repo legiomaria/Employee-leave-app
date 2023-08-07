@@ -1,0 +1,38 @@
+div.contain-table {
+    font-size: 18px;
+    margin: auto;
+    font-family: sans-serif;
+    max-width: 800px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.striped-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    
+    
+}
+
+.striped-table th,
+.striped-table td {
+    padding: 4px;
+    text-align: center;
+}
+
+.stripped-table tbody tr {
+    border-bottom: 3px solid #dddddd;
+}
+
+.button.edit {
+    background-color:green;
+    color: white;
+    padding: .7em;
+    border-radius: 8px;
+}
+
+.button.delete {
+    background-color: red;
+    color:white ;
+    padding: .7em;
+    border-radius: 8px;
+}
